@@ -1,4 +1,4 @@
-# The-methods-of-maximum-cakiculation.
+# The-methods-of-maximum-UX calculation.
 To easily To caluclate The dferential equation for maximum UX
 
 # ユーザー体験（UX）最大化の数理モデル
